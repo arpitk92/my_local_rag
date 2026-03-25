@@ -1,0 +1,9 @@
+Project Atlas is a cloud migration initiative started in March 2025. The total budget is 50 lakh INR.
+
+Riya Sharma is the project manager. Amit Verma is responsible for backend development, while Neha Kapoor handles frontend.
+
+The team uses AWS and PostgreSQL. All services are containerized using Docker.
+
+Expenses include 15000 INR for infrastructure, 8000 INR for database licensing, and 12000 INR for monitoring tools.
+
+Company policy states that expenses above 10000 INR require approval. Refunds are allowed within 10 days.
