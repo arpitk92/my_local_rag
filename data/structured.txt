@@ -1,0 +1,23 @@
+[Project]
+Name: Project Atlas
+Start Date: March 2025
+Budget: 50 lakh INR
+
+[Team]
+Manager: Riya Sharma
+Backend: Amit Verma
+Frontend: Neha Kapoor
+
+[Tech Stack]
+Cloud: AWS
+Database: PostgreSQL
+Container: Docker
+
+[Expenses]
+Infrastructure: 15000 INR
+Database: 8000 INR
+Monitoring: 12000 INR
+
+[Policies]
+Approval: Required above 10000 INR
+Refund: Allowed within 10 days
